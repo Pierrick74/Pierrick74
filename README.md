@@ -1,5 +1,14 @@
-### Hi there 👋
+### hello, je suis pierrick
+Baby developpeur ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) en reconversion professionnelle pour mettre moins de sel dans mon avenir
 
+
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <!--
 **Jcaero/jcaero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
