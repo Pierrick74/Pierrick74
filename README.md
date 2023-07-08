@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierrick</h1>
 <h3 align="center">Baby developpeur iOS en reconversion professionnelle pour mettre moins de sel dans mon avenir</h3>
 
-- 🔭 Je travaille sur [Projet 6 - OC](git@github.com:Jcaero/OC_PIZZA.git)
+- 🔭 Je travaille sur **le projet 8 - OC**
 
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
