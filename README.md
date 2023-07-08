@@ -14,7 +14,7 @@ Une calculatrice dévellopée pour le projet 5 d'OPENCLASSROOMS
   - architecture MVC
   - 2 versions
     - Storyboard
-    - code
+    - No Storyboard
   - limitations
     - nombre tapé par l’utilisateur: max 10 chiffres
     - resultat max : 1.79e+308
@@ -23,15 +23,15 @@ Une calculatrice dévellopée pour le projet 5 d'OPENCLASSROOMS
 
 
 ## OC_PIZZA
-Projet 6 OpenClassrooms
+Projet OpenClassrooms
+projet d'amélioration d'un système de gestion des commandes, de leur réception à leur livraison en passant par leur préparation ;
 
-Analysez les besoins de votre client pour son groupe de pizzerias
+Le projet comprend :
 
-via
-des persona pour les différents acteurs interagissant avec le futur système
-un diagramme de cas pour la liste des fonctionnalités
-des users story A4 pour le descriptif des fonctionnalités
-un diagramme de flux pou le cycle de vie des commandes
+- Un dossier de conception fonctionnelle : à l’attention de la maîtrise d’ouvrage (MOA) et de la maîtrise d’œuvre (MOE)
+- Un dossier de conception technique : à l’attention des développeurs, mainteneurs et de l’équipe technique du client
+- Un dossier d’exploitation : à l’attention de l’équipe technique du client
+- Le procès-verbal de livraison finale
 
 <h3 align="center"><img src="img/DIAGRAMMEocpizza.jpg" width="500" height="400">
 </h3>
