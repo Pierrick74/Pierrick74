@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pierrick</h1>
 <h3 align="center">Baby developpeur iOS en reconversion professionnelle pour mettre moins de sel dans mon avenir</h3>
 
-- 🔭 Je travaille sur **le projet 9 - OC**
+- 🔭 Je travaille sur **le projet 10 - OC**
 
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
+- 
+## Balluchon
+
+Une application de voyage devellopée pour le projet 9 d'OpenClassrooms
+  -une page convertiseur de monnaie
+  - une page traduction
+  - une page meteo
+
+No storyboard, appel API
+<h3 align="center"><img src="img/balluchon.png" width="185" height="400"></h3>
 
 ## Calculatrice
 
