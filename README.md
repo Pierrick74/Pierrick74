@@ -6,7 +6,7 @@
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
 
-## Reciplease
+## [Reciplease](/github/Reciplease)
 
 Création d'une Application de recette suivant un mockup
 Le projet permet de rechercher une recette suivant une liste d'ingrédients
@@ -14,7 +14,7 @@ Integration de Green code via cache des appels API et de la prise en compte de l
 
 Compétences : APi, Green code, Accessibility, SPM, CoreData, MVVM, Unit Test, UI Test
 
-<h3 align="center"><img src="img/recipleaseLaunch.png" width="185" height="400"><img src="img/recipleaseSearch.png" width="185" height="400"><img src="img/recipleaseAccessibility.png" width="185" height="400"></h3>
+<h3 align="center"><img src="img/recipleaseLaunch.png" width="185" height="400">  <img src="img/recipleaseSearch.png" width="185" height="400">  <img src="img/recipleaseAccessibility.png" width="185" height="400"></h3>
 
 ## Balluchon
 
