@@ -6,7 +6,7 @@
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
 
-## [Reciplease](/Reciplease)
+## [Reciplease](Jcaero/Reciplease)
 
 Création d'une Application de recette suivant un mockup
 Le projet permet de rechercher une recette suivant une liste d'ingrédients
