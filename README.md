@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pierrick</h1>
 <h3 align="center">Baby developpeur iOS en reconversion professionnelle pour mettre moins de sel dans mon avenir</h3>
 
-- 🔭 Je travaille sur **le projet 10 - OC**
+- 🔭 Je travaille sur **le projet 12 - OC**
 
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
-- 
+
+## Reciplease
+
+Création d'une Application de recette suivant un mockup
+Le projet permet de rechercher une recette suivant une liste d'ingrédients
+Integration de Green code via cache des appels API et de la prise en compte de l'accessibility
+
+Compétences : APi, Green code, Accessibility, SPM, CoreData, MVVM, Unit Test, UI Test
+
+<h3 align="center"><img src="img/recipleaseLaunch.png" width="185" height="400"><img src="img/recipleaseSearch.png" width="185" height="400"><img src="img/recipleaseAccessibility.png" width="185" height="400"></h3>
+
 ## Balluchon
 
 Une application de voyage devellopée pour le projet 9 d'OpenClassrooms
