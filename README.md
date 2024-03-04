@@ -6,6 +6,24 @@
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
 
+  ## [MarmotMonitor](https://github.com/Jcaero/MarmotMonitor)
+Marmot Monitor est une application dédiée aux parents, 
+offrant un suivi complet des premières étapes de vie de leur enfant, 
+de l'alimentation aux changements de couches, en passant par le suivi du poids.
+
+<h3 align="center"><img src="img/MarmotMonitor1.png" width="185" height="400">  <img src="img/MarmotMonitor2.png" width="185" height="400">  <img src="img/MarmotMonitor3.png" width="185" height="400"> <img src="img/MarmotMonitor4.png" width="185" height="400"></h3>
+
+L'accessibilité est importante: l'application prend en charge le texte dynamique et VoiceOver.
+
+Entièrement personnalisable, elle s'adapte à chaque famille, 
+rendant la gestion du quotidien plus simple et rassurante. 
+
+Avec Marmot Monitor, chaque moment important est enregistré, 
+analysé et célébré, soutenant les parents dans cette belle aventure.
+
+
+Compétences : Accessibility, SPM, CoreData, MVVM, Unit Test, UI Test
+
 ## [Reciplease](https://github.com/Jcaero/Reciplease)
 
 Création d'une Application de recette suivant un mockup
