@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierrick</h1>
 <h3 align="center">Baby developpeur iOS en reconversion professionnelle pour mettre moins de sel dans mon avenir</h3>
 
-- 🔭 Je travaille sur **le projet 12 - OC**
+- 🔭 J'apprend actuellement SwuiftUI
 
 - J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
 - Vous trouverez mes projets dans mon **GITHUB**
