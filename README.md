@@ -16,7 +16,7 @@ Made in Annecy, Haute-Savoie 🏔️
 • Implémentation de Swift Testing pour garantir la qualité et la stabilité de l'application
 • Intégration complète des fonctionnalités d'accessibilité iOS (VoiceOver, Dynamic Type)
 
-<h3 align="center"><img src="img/MarmotMonitorUI1.png" width="185" height="400">  <img src="img/MarmotMonitorUI2.png" width="185" height="400">  <img src="img/MarmotMonitorUI3.png" width="185" height="400"> <img src="img/MarmotMonitorUI4.png" width="185" height="400"></h3>
+<h3 align="center"><img src="img/MarmotmonitorUI1.png" width="185" height="400">  <img src="img/MarmotmonitorUI2.png" width="185" height="400">  <img src="img/MarmotmonitorUI3.png" width="185" height="400"> <img src="img/MarmotmonitorUI4.png" width="185" height="400"></h3>
 
   ## [MarmotMonitor UIKit](https://github.com/Jcaero/MarmotMonitor)
 Marmot Monitor est une application dédiée aux parents, 
