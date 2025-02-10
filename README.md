@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Pierrick</h1>
 <h3 align="center">Baby developpeur iOS en reconversion professionnelle pour mettre moins de sel dans mon avenir</h3>
 
-- 🔭 J'apprend actuellement SwuiftUI
+## [MarmotMonitor](https://github.com/Pierrick74/MarmotMonitor)
+Une application native iOS pour simplifier le suivi quotidien de bébé !
+Made in Annecy, Haute-Savoie 🏔️ 
 
-- J'apprend le Swift **via OPENCLASSROOMS, UDEMY**
-- Vous trouverez mes projets dans mon **GITHUB**
+👨‍👩‍👦 Pour les parents, MarmotMonitor c'est :
+• Un suivi simple et rapide des activités quotidiennes de bébé
+• Des données sécurisées et accessibles à tout moment
+• Une interface épurée adaptée à l'utilisation d'une seule main
 
-  ## [MarmotMonitor](https://github.com/Jcaero/MarmotMonitor)
+🛠️ Aspects techniques :
+• Développée nativement en SwiftUI pour une expérience utilisateur fluide et moderne
+• Utilisation de SwiftData pour une gestion efficace et fiable des données
+• Implémentation de Swift Testing pour garantir la qualité et la stabilité de l'application
+• Intégration complète des fonctionnalités d'accessibilité iOS (VoiceOver, Dynamic Type)
+
+<h3 align="center"><img src="img/MarmotMonitorUI1.png" width="185" height="400">  <img src="img/MarmotMonitorUI2.png" width="185" height="400">  <img src="img/MarmotMonitorUI3.png" width="185" height="400"> <img src="img/MarmotMonitorUI4.png" width="185" height="400"></h3>
+
+  ## [MarmotMonitor UIKit](https://github.com/Jcaero/MarmotMonitor)
 Marmot Monitor est une application dédiée aux parents, 
 offrant un suivi complet des premières étapes de vie de leur enfant, 
 de l'alimentation aux changements de couches, en passant par le suivi du poids.
